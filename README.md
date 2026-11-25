@@ -9,7 +9,7 @@
 
 > 한 줄 소개 — 예: 사용자 경험을 숫자로 증명하는 프론트엔드 개발자입니다.
 
-📧 minhyung7009@naver.com &nbsp;·&nbsp; 🐙 [github.com/leesansa](https://github.com/leesansa)
+Email - minhyung7009@naver.com &nbsp;·&nbsp; github - [github.com/leesansa](https://github.com/leesansa)
 
 ### 📜 경력 · 활동
 
