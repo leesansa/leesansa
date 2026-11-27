@@ -45,6 +45,7 @@ YYYY.MM – YYYY.MM · ○○ (교육 과정명) · 프론트엔드 개발 과�
 <tr><td align="center"><b>fridgeO</b></td><td align="center">냉장고 재료 관리와 레시피 추천 서비스 (4인 팀)</td><td align="center"><a href="https://fridgeo.pages.dev">fridgeo.pages.dev</a></td></tr>
 <tr><td align="center"><b>Re:Rail</b></td><td align="center">코레일 홈페이지 리디자인 (4인 팀)</td><td align="center"><a href="https://leesansa.github.io/re_rail/">leesansa.github.io/re_rail</a></td></tr>
 <tr><td align="center"><b>game_servise</b></td><td align="center">게임 소개 사이트 퍼블리싱 (개인)</td><td align="center"><a href="https://leesansa.github.io/game_servise/">leesansa.github.io/game_servise</a></td></tr>
+<tr><td align="center"><b>game_servise2</b></td><td align="center">명조: 워더링 웨이브 리디자인 (개인)</td><td align="center"><a href="https://wuwa-portfolio.fridgeo.workers.dev">wuwa-portfolio.fridgeo.workers.dev</a></td></tr>
 </table>
 
 </div>
